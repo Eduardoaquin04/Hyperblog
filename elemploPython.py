@@ -1,5 +1,3 @@
-
-
 print("Hola desde Vscode")
 precio = input("Ingrese el precio del producto:")
 cantidad = input("Ingrese la cantidad a comprar:")
